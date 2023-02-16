@@ -1,5 +1,5 @@
 import "./CopyWeek.css";
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 
 const formatWeekEntries = (week) =>
   week.reduce(

@@ -1,6 +1,6 @@
 import "./ThemePicker.css";
 // import localforage from "localforage";
-import { useState } from "react";
+import React, { useState } from "react";
 
 export const ThemePicker = ({ theme, setTheme }) => {
   const [showTheme, setShowTheme] = useState(false);

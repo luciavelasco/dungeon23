@@ -1,6 +1,6 @@
 import "./styles.css";
 import "./RandomGenerator.css";
-import { useState } from "react";
+import React, { useState } from "react";
 import { rollTable, Loot } from "./loot";
 import { Copy } from "./CopyWeek";
 

@@ -28,7 +28,6 @@ export const useGetItem = (key, initialiser) => {
   }
   useEffect(() => {
     getItem();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return { item, error, isLoading };

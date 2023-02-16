@@ -1,5 +1,5 @@
 import "./styles.css";
-import { useState } from "react";
+import React, { useState } from "react";
 import { RandomGenerator } from "./RandomGenerator";
 import { CopyWeek } from "./CopyWeek";
 import { ThemePicker } from "./ThemePicker";
