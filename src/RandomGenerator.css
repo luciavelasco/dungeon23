@@ -1,0 +1,97 @@
+.generate {
+  /* border: rgba(var(--contrast-color), var(--default-contrast-opacity)) 1px solid; */
+  border: none;
+  margin: 1px;
+  border-radius: 0.125rem;
+  background: none;
+  color: inherit;
+  font-size: 2rem;
+  padding: 0 0.5rem;
+}
+.generate:hover {
+  /* background-color: rgba(var(--contrast-color), 0.1); */
+  border: rgba(var(--contrast-color), var(--default-contrast-opacity)) 1px solid;
+  cursor: pointer;
+  margin: 0;
+}
+
+.modal {
+  position: fixed;
+  top: 50vh;
+  left: 50vw;
+  transform: translate(-50%, calc(-50%));
+  width: 60%;
+  min-width: 20rem;
+  min-height: 15rem;
+  max-height: 60vh;
+  overflow: scroll;
+  background: whitesmoke;
+  color: #105040;
+  /* color: var(--primary-color); */
+  opacity: 0.98;
+  border-radius: 0.25rem;
+  padding: 1.5rem;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.modal .foot {
+  /* position: absolute; */
+  /* bottom: 1rem; */
+  /* right: 1rem; */
+  /* width: 100%; */
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 1rem;
+}
+.modal .foot button {
+  border: none;
+  /* border: solid 1px #105040; */
+  background: none;
+  font-size: inherit;
+  border-radius: 0.0625rem;
+  margin: 0.0625rem;
+  padding: 0.25rem;
+}
+.modal .foot button:hover:enabled {
+  background: rgba(16, 80, 64, 0.2);
+}
+
+.monster {
+  width: 100%;
+}
+
+.details {
+  display: flex;
+}
+.details p {
+  margin-right: 0.5rem;
+  margin-top: 0;
+}
+
+.stats {
+  display: flex;
+  list-style: none;
+  padding-inline-start: 0;
+}
+.stats li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 0.5rem;
+}
+.stat {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.monster > a {
+  font-weight: bold;
+  margin-bottom: 1rem;
+  display: block;
+  color: inherit;
+  /* text-align: center; */
+  /* width: 100%; */
+}

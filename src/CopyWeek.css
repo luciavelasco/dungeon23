@@ -1,0 +1,24 @@
+.copy-week {
+  font-size: 2rem;
+  margin: 1rem 0;
+  height: 3rem;
+}
+.copy-week:hover:enabled {
+  text-shadow: 0.1875rem 0.1875rem
+    rgba(var(--contrast-color), var(--default-contrast-opacity));
+}
+
+.copy {
+  border: none;
+  background: none;
+}
+.copy:enabled {
+  color: inherit;
+}
+.copy:hover:enabled,
+label[for="copy"] {
+  cursor: pointer;
+}
+.copy:hover:disabled {
+  cursor: not-allowed;
+}

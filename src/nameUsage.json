@@ -1,0 +1,1095 @@
+{
+  "shortList": [],
+  "all": [
+    {
+      "code": "afk",
+      "label": "Afrikaans",
+      "description": "Afrikaans names are used by Afrikaans speakers in the countries of South Africa and Namibia."
+    },
+    {
+      "code": "afr",
+      "label": "African",
+      "description": "African names are used in various places on the continent of Africa."
+    },
+    {
+      "code": "aka",
+      "label": "Akan",
+      "description": "Akan names are used by the Akan people of Ghana and Ivory Coast."
+    },
+    {
+      "code": "alb",
+      "label": "Albanian",
+      "description": "Albanian names are used in the country of Albania, as well as Kosovo and other Albanian communities throughout the world."
+    },
+    {
+      "code": "alg",
+      "label": "Algonquin",
+      "description": "Algonquin names are used by the Algonquin people of Ontario and Quebec in Canada."
+    },
+    {
+      "code": "ame",
+      "label": "Indigenous American",
+      "description": "These names are or were used by the various indigenous peoples who inhabit North and South America."
+    },
+    { "code": "amem", "label": "New World Mythology", "description": "-" },
+    {
+      "code": "amh",
+      "label": "Amharic",
+      "description": "Amharic names are used in Ethiopia."
+    },
+    {
+      "code": "anci",
+      "label": "Ancient",
+      "description": "These names were used in various ancient regions."
+    },
+    {
+      "code": "apa",
+      "label": "Apache",
+      "description": "Apache names are used by the Apache peoples of the southwestern United States."
+    },
+    {
+      "code": "ara",
+      "label": "Arabic",
+      "description": "Arabic names are used in the Arab world, as well as some other regions within the larger Muslim world. They are not necessarily of Arabic origin, though most in fact are. Compare also Persian names and Turkish names."
+    },
+    {
+      "code": "arm",
+      "label": "Armenian",
+      "description": "Armenian names are used in the country of Armenia in western Asia, as well as in Armenian diaspora communities throughout the world."
+    },
+    {
+      "code": "asm",
+      "label": "Assamese",
+      "description": "Assamese names are used in Assam in eastern India."
+    },
+    {
+      "code": "ast",
+      "label": "Asturian",
+      "description": "Asturian names are used in Asturias in northern Spain by speakers of Asturian."
+    },
+    {
+      "code": "astr",
+      "label": "Astronomy",
+      "description": "These names occur primarily in astronomy. They are not commonly given to real people."
+    },
+    {
+      "code": "aus",
+      "label": "Indigenous Australian",
+      "description": "These names are used by the indigenous people of Australia, also called Aboriginal Australians."
+    },
+    {
+      "code": "ava",
+      "label": "Avar",
+      "description": "Avar names are used by Avar speakers in Dagestan, a federal subject of Russia."
+    },
+    {
+      "code": "aym",
+      "label": "Aymara",
+      "description": "Aymara names are used by the Aymara people of Bolivia and Peru."
+    },
+    {
+      "code": "aze",
+      "label": "Azerbaijani",
+      "description": "Azerbaijani names are used by the Azeri people of Azerbaijan and northern Iran."
+    },
+    {
+      "code": "bal",
+      "label": "Balinese",
+      "description": "Balinese names are used on the island of Bali, a part of Indonesia."
+    },
+    {
+      "code": "bas",
+      "label": "Basque",
+      "description": "Basque names are used in the Basque Country (northern Spain and southern France) by speakers of Basque."
+    },
+    {
+      "code": "bel",
+      "label": "Belarusian",
+      "description": "Belarusian names are used in the country of Belarus in eastern Europe."
+    },
+    {
+      "code": "ben",
+      "label": "Bengali",
+      "description": "Bengali names are used in Bangladesh and eastern India."
+    },
+    {
+      "code": "ber",
+      "label": "Berber",
+      "description": "Berber names are used by the Berber (Amazigh) people of North Africa, including the Tuareg of the Sahara."
+    },
+    {
+      "code": "bhu",
+      "label": "Bhutanese",
+      "description": "Bhutanese names are used in the country of Bhutan in southern Asia."
+    },
+    {
+      "code": "bibl",
+      "label": "Biblical (All)",
+      "description": "These names occur in the Bible (in any language)."
+    },
+    {
+      "code": "bos",
+      "label": "Bosnian",
+      "description": "Bosnian names are used by the Bosniak people. For additional names, see Serbo-Croatian names, Arabic names and Turkish names."
+    },
+    {
+      "code": "bre",
+      "label": "Breton",
+      "description": "Breton names are used in the region of Brittany in northwest France."
+    },
+    {
+      "code": "bsh",
+      "label": "Bashkir",
+      "description": "Bashkir names are used in Bashkortostan in Russia."
+    },
+    {
+      "code": "bul",
+      "label": "Bulgarian",
+      "description": "Bulgarian names are used in the country of Bulgaria in southeastern Europe."
+    },
+    {
+      "code": "bur",
+      "label": "Burmese",
+      "description": "Burmese names are used in Myanmar (Burma) in southeastern Asia."
+    },
+    {
+      "code": "cat",
+      "label": "Catalan",
+      "description": "Catalan names are used in Catalonia in eastern Spain, as well as in other Catalan-speaking areas including Valencia, the Balearic Islands, and Andorra."
+    },
+    { "code": "cela", "label": "Ancient Celtic", "description": "-" },
+    { "code": "celm", "label": "Celtic Mythology", "description": "-" },
+    {
+      "code": "cew",
+      "label": "Chewa",
+      "description": "Chewa names are used in Malawi, Zambia and Mozambique."
+    },
+    {
+      "code": "cha",
+      "label": "Chamorro",
+      "description": "Chamorro names are used by the Chamorro people of Guam and the Mariana Islands."
+    },
+    {
+      "code": "che",
+      "label": "Chechen",
+      "description": "Chechen names are used in Chechnya, a federal subject of Russia."
+    },
+    {
+      "code": "chi",
+      "label": "Chinese",
+      "description": "Chinese names are used in China and in Chinese communities throughout the world. Note that depending on the Chinese characters used these names can have many other meanings besides those listed here."
+    },
+    {
+      "code": "chk",
+      "label": "Cherokee",
+      "description": "Cherokee names are used by the Cherokee people of the United States."
+    },
+    {
+      "code": "cht",
+      "label": "Choctaw",
+      "description": "Choctaw names are used by the Choctaw people of Oklahoma and Mississippi."
+    },
+    {
+      "code": "chy",
+      "label": "Cheyenne",
+      "description": "Cheyenne names are used by the Cheyenne people of the United States."
+    },
+    {
+      "code": "cir",
+      "label": "Circassian",
+      "description": "Circassian names are used in Circassia, part of the Caucasus region of Russia, by speakers of the Circassian languages of Adyghe and Kabardian."
+    },
+    {
+      "code": "cmr",
+      "label": "Comorian",
+      "description": "Comorian names are used on the islands of Comoros off eastern Africa."
+    },
+    {
+      "code": "com",
+      "label": "Comanche",
+      "description": "Comanche names are used by the Comanche people of the southern United States."
+    },
+    {
+      "code": "cop",
+      "label": "Coptic",
+      "description": "These names are used by Coptic Christians in Egypt."
+    },
+    {
+      "code": "cor",
+      "label": "Cornish",
+      "description": "Cornish names were used in southwest England in the region around Cornwall."
+    },
+    {
+      "code": "cre",
+      "label": "Cree",
+      "description": "Cree names are used by the Cree people of Canada."
+    },
+    {
+      "code": "cro",
+      "label": "Croatian",
+      "description": "Croatian names are used in the country of Croatia and other Croatian communities throughout the world."
+    },
+    {
+      "code": "crs",
+      "label": "Corsican",
+      "description": "Corsican names are used on the French island of Corsica by speakers of Corsican (a language related to Italian)."
+    },
+    {
+      "code": "cze",
+      "label": "Czech",
+      "description": "Czech names are used in the Czech Republic in central Europe."
+    },
+    {
+      "code": "dan",
+      "label": "Danish",
+      "description": "Danish names are used in the country of Denmark in northern Europe."
+    },
+    {
+      "code": "dgs",
+      "label": "Dagestani",
+      "description": "Dagestani names are used in Dagestan, a federal subject of Russia."
+    },
+    {
+      "code": "dhi",
+      "label": "Dhivehi",
+      "description": "Dhivehi names are used by the Dhivehi people of the Maldives."
+    },
+    {
+      "code": "dut",
+      "label": "Dutch",
+      "description": "Dutch names are used in the Netherlands and Flanders."
+    },
+    { "code": "egya", "label": "Ancient Egyptian", "description": "-" },
+    { "code": "egym", "label": "Egyptian Mythology", "description": "-" },
+    {
+      "code": "eng",
+      "label": "English",
+      "description": "English names are used in English-speaking countries."
+    },
+    { "code": "enga", "label": "Anglo-Saxon", "description": "-" },
+    {
+      "code": "esp",
+      "label": "Esperanto",
+      "description": "Esperanto names are used by speakers of the planned language Esperanto."
+    },
+    {
+      "code": "est",
+      "label": "Estonian",
+      "description": "Estonian names are used in the country of Estonia in northern Europe."
+    },
+    {
+      "code": "eth",
+      "label": "Ethiopian",
+      "description": "Ethiopian names are used in the country of Ethiopia in eastern Africa."
+    },
+    {
+      "code": "ewe",
+      "label": "Ewe",
+      "description": "Ewe names are used by the Ewe people of Ghana and Togo."
+    },
+    {
+      "code": "fae",
+      "label": "Faroese",
+      "description": "Faroese names are used on the Faroe Islands."
+    },
+    { "code": "fairy", "label": "Fairy", "description": "Whimsical category" },
+    {
+      "code": "fij",
+      "label": "Fijian",
+      "description": "Fijian names are used on the island nation of Fiji."
+    },
+    {
+      "code": "fil",
+      "label": "Filipino",
+      "description": "Filipino names are used on the island nation of the Philippines."
+    },
+    {
+      "code": "fin",
+      "label": "Finnish",
+      "description": "Finnish names are used in the country of Finland in northern Europe."
+    },
+    {
+      "code": "fle",
+      "label": "Flemish",
+      "description": "Flemish names are used in Flanders (the northern half of Belgium where Dutch is spoken)."
+    },
+    { "code": "fntsg", "label": "Gluttakh", "description": "Fantasy category" },
+    {
+      "code": "fntsm",
+      "label": "Monstrall",
+      "description": "Fantasy category"
+    },
+    { "code": "fntsr", "label": "Romanto", "description": "Fantasy category" },
+    { "code": "fntss", "label": "Simitiq", "description": "Fantasy category" },
+    { "code": "fntst", "label": "Tsang", "description": "Fantasy category" },
+    { "code": "fntsx", "label": "Xalaxxi", "description": "Fantasy category" },
+    {
+      "code": "fre",
+      "label": "French",
+      "description": "French names are used in France and other French-speaking regions."
+    },
+    {
+      "code": "fri",
+      "label": "Frisian",
+      "description": "Frisian names are used in Friesland in the northern Netherlands and in East and North Frisia in northwestern Germany."
+    },
+    {
+      "code": "ful",
+      "label": "Fula",
+      "description": "Fula names are used by the Fula people of western Africa."
+    },
+    {
+      "code": "gaa",
+      "label": "Ga",
+      "description": "Ga names are used by the Ga people of Ghana."
+    },
+    {
+      "code": "gal",
+      "label": "Galician",
+      "description": "Galician names are used in Galicia in northwestern Spain by speakers of Galician."
+    },
+    {
+      "code": "gan",
+      "label": "Ganda",
+      "description": "Ganda names are used by the Ganda people of Uganda."
+    },
+    {
+      "code": "geo",
+      "label": "Georgian",
+      "description": "Georgian names are used in the country of Georgia in central Eurasia."
+    },
+    {
+      "code": "ger",
+      "label": "German",
+      "description": "German names are used in Germany and other German-speaking areas such as Austria and Switzerland."
+    },
+    { "code": "gmca", "label": "Ancient Germanic", "description": "-" },
+    { "code": "goth", "label": "Goth", "description": "Whimsical category" },
+    {
+      "code": "gre",
+      "label": "Greek",
+      "description": "Greek names are used in the country of Greece and other Greek-speaking communities throughout the world."
+    },
+    { "code": "grea", "label": "Ancient Greek", "description": "-" },
+    { "code": "grem", "label": "Greek Mythology", "description": "-" },
+    {
+      "code": "grn",
+      "label": "Greenlandic",
+      "description": "Greenlandic names are used by the indigenous people of Greenland."
+    },
+    {
+      "code": "gua",
+      "label": "Guarani",
+      "description": "Guarani names are used by the Guarani people of South America."
+    },
+    {
+      "code": "guj",
+      "label": "Gujarati",
+      "description": "Gujarati names are used in western India (in the state of Gujarat)."
+    },
+    {
+      "code": "hau",
+      "label": "Hausa",
+      "description": "Hausa names are used by the Hausa people of Niger and northern Nigeria."
+    },
+    {
+      "code": "haw",
+      "label": "Hawaiian",
+      "description": "Hawaiian names are used by the indigenous people of Hawaii."
+    },
+    { "code": "hb", "label": "Hillbilly", "description": "Whimsical category" },
+    {
+      "code": "heb",
+      "label": "Hebrew",
+      "description": "These names are used by Hebrew speakers."
+    },
+    {
+      "code": "hin",
+      "label": "Hindi",
+      "description": "Hindi names are used in India by speakers of Hindi."
+    },
+    { "code": "hippy", "label": "Hippy", "description": "Whimsical category" },
+    {
+      "code": "hist",
+      "label": "History",
+      "description": "These names are used primarily to refer to historical persons. They are not commonly used by other people."
+    },
+    {
+      "code": "hmo",
+      "label": "Hmong",
+      "description": "Hmong names are used by the Hmong people in southeastern Asia."
+    },
+    {
+      "code": "hun",
+      "label": "Hungarian",
+      "description": "Hungarian names are used in the country of Hungary in central Europe."
+    },
+    {
+      "code": "ibi",
+      "label": "Ibibio",
+      "description": "Ibibio names are used by the Ibibio people of Nigeria."
+    },
+    {
+      "code": "ice",
+      "label": "Icelandic",
+      "description": "Icelandic names are used on the island nation of Iceland."
+    },
+    {
+      "code": "igb",
+      "label": "Igbo",
+      "description": "Igbo names are used by the Igbo people of Nigeria."
+    },
+    {
+      "code": "ind",
+      "label": "Indian",
+      "description": "Indian names are used in India and in Indian communities throughout the world."
+    },
+    { "code": "indm", "label": "Hindu Mythology", "description": "-" },
+    {
+      "code": "ing",
+      "label": "Ingush",
+      "description": "Ingush names are used in Ingushetia, a federal subject of Russia."
+    },
+    {
+      "code": "ins",
+      "label": "Indonesian",
+      "description": "Indonesian names are used on the island nation of Indonesia in southeast Asia."
+    },
+    {
+      "code": "inu",
+      "label": "Inuit",
+      "description": "Inuit names are used by the Inuit people of the North American Arctic."
+    },
+    {
+      "code": "iri",
+      "label": "Irish",
+      "description": "Irish names are used on the island of Ireland as well as elsewhere in the Western World as a result of the Irish diaspora."
+    },
+    {
+      "code": "iro",
+      "label": "Iroquois",
+      "description": "Iroquois names are used by the Iroquois people of the United States and Canada."
+    },
+    {
+      "code": "ita",
+      "label": "Italian",
+      "description": "Italian names are used in Italy and other Italian-speaking regions such as southern Switzerland."
+    },
+    {
+      "code": "jap",
+      "label": "Japanese",
+      "description": "Japanese names are used in Japan and in Japanese communities throughout the world. Note that depending on the Japanese characters used these names can have many other meanings besides those listed here."
+    },
+    {
+      "code": "jav",
+      "label": "Javanese",
+      "description": "Javanese names are used on the island of Java, a part of Indonesia."
+    },
+    {
+      "code": "jer",
+      "label": "Jèrriais",
+      "description": "Jèrriais names are used on the island of Jersey between Britain and France by speakers of Jèrriais."
+    },
+    {
+      "code": "jew",
+      "label": "Jewish",
+      "description": "These names are used by Jews. For more specific lists, see Hebrew names and Yiddish names."
+    },
+    {
+      "code": "kan",
+      "label": "Kannada",
+      "description": "Kannada names are used in western India."
+    },
+    {
+      "code": "kaz",
+      "label": "Kazakh",
+      "description": "Kazakh names are used in the country of Kazakhstan in central Eurasia."
+    },
+    {
+      "code": "khm",
+      "label": "Khmer",
+      "description": "Khmer names are used in the country of Cambodia in southeastern Asia."
+    },
+    {
+      "code": "kig",
+      "label": "Kiga",
+      "description": "Kiga names are used by the Kiga people of southwestern Uganda and northern Rwanda."
+    },
+    {
+      "code": "kik",
+      "label": "Kikuyu",
+      "description": "Kikuyu names are used by the Kikuyu people of Kenya."
+    },
+    { "code": "kk", "label": "Kreatyve", "description": "Whimsical category" },
+    {
+      "code": "kon",
+      "label": "Kongo",
+      "description": "Kongo names are used in the Democratic Republic of the Congo, the Republic of the Congo and Angola."
+    },
+    {
+      "code": "kor",
+      "label": "Korean",
+      "description": "Korean names are used in South and North Korea. Note that depending on the Korean characters used these names can have many other meanings besides those listed here."
+    },
+    {
+      "code": "kur",
+      "label": "Kurdish",
+      "description": "Kurdish names are used by the Kurdish people of the Middle East."
+    },
+    {
+      "code": "kyr",
+      "label": "Kyrgyz",
+      "description": "Kyrgyz names are used in the country of Kyrgyzstan in central Eurasia."
+    },
+    {
+      "code": "lao",
+      "label": "Lao",
+      "description": "Lao names are used in the country of Laos in southeastern Asia."
+    },
+    {
+      "code": "lat",
+      "label": "Latvian",
+      "description": "Latvian names are used in the country of Latvia in northern Europe."
+    },
+    {
+      "code": "lim",
+      "label": "Limburgish",
+      "description": "Limburgish names are used in the Limburg region, which straddles the border between Belgium, the Netherlands and Germany."
+    },
+    {
+      "code": "lite",
+      "label": "Literature",
+      "description": "These names occur primarily in literature. They are not commonly given to real people."
+    },
+    { "code": "litk", "label": "Arthurian Romance", "description": "-" },
+    {
+      "code": "lth",
+      "label": "Lithuanian",
+      "description": "Lithuanian names are used in the country of Lithuania in northern Europe."
+    },
+    {
+      "code": "luh",
+      "label": "Luhya",
+      "description": "Luhya names are used by the Luhya people of western Kenya."
+    },
+    {
+      "code": "luo",
+      "label": "Luo",
+      "description": "Luo names are used by the Luo people of Kenya."
+    },
+    {
+      "code": "mac",
+      "label": "Macedonian",
+      "description": "Macedonian names are used in the country of North Macedonia in southeastern Europe."
+    },
+    {
+      "code": "mag",
+      "label": "Maguindanao",
+      "description": "Maguindanao names are used in the Philippines by speakers of Maguindanao."
+    },
+    {
+      "code": "mal",
+      "label": "Maltese",
+      "description": "Maltese names are used on the island of Malta."
+    },
+    {
+      "code": "man",
+      "label": "Manx",
+      "description": "Manx names are used on the Isle of Man."
+    },
+    {
+      "code": "mao",
+      "label": "Maori",
+      "description": "Maori names are used by the indigenous people of New Zealand, the Maori."
+    },
+    {
+      "code": "map",
+      "label": "Mapuche",
+      "description": "Mapuche names are used by the Mapuche people of Chile and Argentina."
+    },
+    {
+      "code": "may",
+      "label": "Mayan",
+      "description": "Mayan names are used by the Maya people of Mexico and Central America."
+    },
+    {
+      "code": "mbu",
+      "label": "Mbundu",
+      "description": "Mbundu names are used in Angola by the Mbundu people."
+    },
+    {
+      "code": "medi",
+      "label": "Medieval",
+      "description": "These names were used in medieval times."
+    },
+    {
+      "code": "mlm",
+      "label": "Malayalam",
+      "description": "Malayalam names are used in southern India."
+    },
+    {
+      "code": "mly",
+      "label": "Malay",
+      "description": "Malay names are used in Malaysia, Indonesia, Brunei, Singapore, and Thailand."
+    },
+    {
+      "code": "moh",
+      "label": "Mohawk",
+      "description": "These names are used by the Mohawk (Kanienkehaka) people of New York, Ontario and Quebec. Mohawk children are traditionally given a name that is unique to their community, and it is not reused while the bearer is alive. It is considered inappropriate for outsiders to use these names."
+    },
+    {
+      "code": "mon",
+      "label": "Mongolian",
+      "description": "Mongolian names are used in the country of Mongolia in central Asia."
+    },
+    {
+      "code": "morm",
+      "label": "Mormon",
+      "description": "These names occur in the Book of Mormon."
+    },
+    {
+      "code": "mrt",
+      "label": "Marathi",
+      "description": "Marathi names are used by the Marathi people in western India."
+    },
+    {
+      "code": "mwe",
+      "label": "Mwera",
+      "description": "Mwera names are used by the Mwera people of Tanzania."
+    },
+    {
+      "code": "myth",
+      "label": "Mythology",
+      "description": "These names occur in mythology and religion."
+    },
+    {
+      "code": "nah",
+      "label": "Nahuatl",
+      "description": "Nahuatl names are used by the Nahua peoples of Mexico and Central America."
+    },
+    {
+      "code": "nav",
+      "label": "Navajo",
+      "description": "Navajo names are used by the Navajo people of the southwestern United States."
+    },
+    {
+      "code": "nde",
+      "label": "Ndebele",
+      "description": "Ndebele names are used by the Ndebele people of South Africa and Zimbabwe."
+    },
+    { "code": "neaa", "label": "Ancient Near Eastern", "description": "-" },
+    { "code": "neam", "label": "Near Eastern Mythology", "description": "-" },
+    {
+      "code": "nep",
+      "label": "Nepali",
+      "description": "Nepali names are used in the country of Nepal in southern Asia."
+    },
+    {
+      "code": "nor",
+      "label": "Norwegian",
+      "description": "Norwegian names are used in the country of Norway in northern Europe."
+    },
+    {
+      "code": "nrm",
+      "label": "Norman",
+      "description": "Norman names are used in Normandy in northeastern France and on the British Channel Islands by speakers of Norman (a language related to French)."
+    },
+    {
+      "code": "nuu",
+      "label": "Nuu-chah-nulth",
+      "description": "Nuu-chah-nulth names are used on Vancouver Island, Canada."
+    },
+    {
+      "code": "occ",
+      "label": "Occitan",
+      "description": "Occitan names are used in southern France and parts of Spain and Italy by speakers of Occitan."
+    },
+    {
+      "code": "odi",
+      "label": "Odia",
+      "description": "Odia or Oriya names are used in eastern India (in the state of Odisha)."
+    },
+    {
+      "code": "oji",
+      "label": "Ojibwe",
+      "description": "Ojibwe names are used by the Ojibwe (or Chippewa) people of Canada and the United States."
+    },
+    {
+      "code": "one",
+      "label": "Oneida",
+      "description": "Oneida names are used by the Oneida people of New York, Wisconsin and Ontario."
+    },
+    {
+      "code": "oro",
+      "label": "Oromo",
+      "description": "Oromo names are used in Ethiopia."
+    },
+    {
+      "code": "oss",
+      "label": "Ossetian",
+      "description": "Ossetian names are used in Ossetia, which is a region split by Russia and Georgia."
+    },
+    {
+      "code": "pas",
+      "label": "Pashto",
+      "description": "Pashto names are used in Afghanistan and northwestern Pakistan."
+    },
+    {
+      "code": "pcd",
+      "label": "Picard",
+      "description": "Picard names are used in northern France by speakers of Picard (a language closely related to French)."
+    },
+    {
+      "code": "per",
+      "label": "Persian",
+      "description": "Persian names are used in the country of Iran, in southwestern Asia, which is part of the Muslim world."
+    },
+    {
+      "code": "pets",
+      "label": "Pet",
+      "description": "These names are most commonly given to \"pets\": dogs, cats, etc."
+    },
+    {
+      "code": "pin",
+      "label": "Pintupi",
+      "description": "Pintupi names are used by the Pintupi people of central Australia."
+    },
+    {
+      "code": "pol",
+      "label": "Polish",
+      "description": "Polish names are used in the country of Poland in central Europe."
+    },
+    {
+      "code": "popu",
+      "label": "Popular Culture",
+      "description": "These names occur primarily in popular culture and entertainment. They are not commonly given to real people."
+    },
+    {
+      "code": "por",
+      "label": "Portuguese",
+      "description": "Portuguese names are used in Portugal, Brazil and other Portuguese-speaking areas."
+    },
+    {
+      "code": "pow",
+      "label": "Powhatan",
+      "description": "Powhatan names are used by the Powhatan people of the eastern United States."
+    },
+    {
+      "code": "pun",
+      "label": "Punjabi",
+      "description": "Punjabi names are used in the Punjab region of India and Pakistan."
+    },
+    {
+      "code": "que",
+      "label": "Quechua",
+      "description": "Quechua names are used by the Quechua people of South America."
+    },
+    { "code": "rap", "label": "Rapper", "description": "Whimsical category" },
+    {
+      "code": "rmn",
+      "label": "Romanian",
+      "description": "Romanian names are used in the countries of Romania and Moldova in eastern Europe."
+    },
+    { "code": "roma", "label": "Ancient Roman", "description": "-" },
+    { "code": "romm", "label": "Roman Mythology", "description": "-" },
+    {
+      "code": "rus",
+      "label": "Russian",
+      "description": "Russian names are used in the country of Russia and in Russian-speaking communities throughout the world."
+    },
+    {
+      "code": "sam",
+      "label": "Sami",
+      "description": "Sami names are used by the Sami people who inhabit northern Scandinavia."
+    },
+    {
+      "code": "sar",
+      "label": "Sardinian",
+      "description": "Sardinian names are used on the Italian island of Sardinia by speakers of Sardinian."
+    },
+    {
+      "code": "sax",
+      "label": "Low German",
+      "description": "These names are used in northern Germany and the eastern Netherlands where Low German is spoken. See also German names."
+    },
+    { "code": "scaa", "label": "Ancient Scandinavian", "description": "-" },
+    { "code": "scam", "label": "Norse Mythology", "description": "-" },
+    {
+      "code": "sco",
+      "label": "Scottish",
+      "description": "Scottish names are used in the country of Scotland as well as elsewhere in the Western World as a result of the Scottish diaspora."
+    },
+    {
+      "code": "sct",
+      "label": "Scots",
+      "description": "Scots names are used by speakers of the Scots language."
+    },
+    {
+      "code": "sen",
+      "label": "Seneca",
+      "description": "Seneca names are used by the Seneca people of New York, Oklahoma and Ontario."
+    },
+    {
+      "code": "ser",
+      "label": "Serbian",
+      "description": "Serbian names are used in the country of Serbia in southeastern Europe."
+    },
+    {
+      "code": "sha",
+      "label": "Shawnee",
+      "description": "Shawnee names are used by the Shawnee people of Oklahoma."
+    },
+    {
+      "code": "sho",
+      "label": "Shona",
+      "description": "Shona names are used by the Shona people of Zimbabwe."
+    },
+    {
+      "code": "sic",
+      "label": "Sicilian",
+      "description": "These names are a subset of Italian names used more often by speakers of Sicilian."
+    },
+    {
+      "code": "sik",
+      "label": "Siksika",
+      "description": "Siksika (or Blackfoot) names are used by the Blackfoot people of Alberta and Montana."
+    },
+    {
+      "code": "sin",
+      "label": "Sinhalese",
+      "description": "Sinhalese names are used by the Sinhalese people of Sri Lanka."
+    },
+    {
+      "code": "sio",
+      "label": "Sioux",
+      "description": "Sioux names are used by the Sioux (Lakota and Dakota) people of the central United States and Canada."
+    },
+    {
+      "code": "sla",
+      "label": "Slavic",
+      "description": "These names are used by Slavic peoples."
+    },
+    { "code": "slam", "label": "Slavic Mythology", "description": "-" },
+    {
+      "code": "slk",
+      "label": "Slovak",
+      "description": "Slovak names are used in the country of Slovakia in central Europe."
+    },
+    {
+      "code": "sln",
+      "label": "Slovene",
+      "description": "Slovene names are used in the country of Slovenia in central Europe."
+    },
+    {
+      "code": "smn",
+      "label": "Samoan",
+      "description": "Samoan names are used on the Samoan Islands."
+    },
+    {
+      "code": "som",
+      "label": "Somali",
+      "description": "Somali names are used in the countries of Somalia, Ethiopia and Djibouti in eastern Africa."
+    },
+    {
+      "code": "sor",
+      "label": "Sorbian",
+      "description": "Sorbian names are used in Lusatia in eastern Germany by speakers of Sorbian, a Slavic language."
+    },
+    {
+      "code": "sot",
+      "label": "Sotho",
+      "description": "Sotho names are used by the Sotho people of Lesotho and South Africa."
+    },
+    {
+      "code": "spa",
+      "label": "Spanish",
+      "description": "Spanish names are used in Spain and other Spanish-speaking countries (such as those in South America)."
+    },
+    {
+      "code": "swa",
+      "label": "Swahili",
+      "description": "Swahili names are used by Swahili speakers in eastern Africa."
+    },
+    {
+      "code": "swe",
+      "label": "Swedish",
+      "description": "Swedish names are used in the country of Sweden in northern Europe."
+    },
+    {
+      "code": "swz",
+      "label": "Swazi",
+      "description": "Swazi names are used by the Swazi people of Swaziland and South Africa."
+    },
+    {
+      "code": "tag",
+      "label": "Tagalog",
+      "description": "Tagalog names are used in the Philippines."
+    },
+    {
+      "code": "tah",
+      "label": "Tahitian",
+      "description": "Tahitian names are used in French Polynesia (part of which is the island of Tahiti)."
+    },
+    {
+      "code": "taj",
+      "label": "Tajik",
+      "description": "Tajik names are used in the country of Tajikistan in central Asia."
+    },
+    {
+      "code": "tam",
+      "label": "Tamil",
+      "description": "Tamil names are used in southern India and Sri Lanka."
+    },
+    {
+      "code": "tat",
+      "label": "Tatar",
+      "description": "Tatar names are used in Tatarstan in Russia."
+    },
+    {
+      "code": "tau",
+      "label": "Tausug",
+      "description": "Tausug names are used in the Philippines by speakers of Tausug."
+    },
+    {
+      "code": "tel",
+      "label": "Telugu",
+      "description": "Telugu names are used in eastern India."
+    },
+    {
+      "code": "tha",
+      "label": "Thai",
+      "description": "Thai names are used in the country of Thailand in southeastern Asia."
+    },
+    {
+      "code": "theo",
+      "label": "Theology",
+      "description": "These names are used to refer to (Judeo-Christian-Islamic) deities. They are not bestowed upon real people."
+    },
+    {
+      "code": "tib",
+      "label": "Tibetan",
+      "description": "Tibetan names are used by the Tibetan people who live in the region of Tibet in central Asia."
+    },
+    {
+      "code": "tkm",
+      "label": "Turkmen",
+      "description": "Turkmen names are used in the country of Turkmenistan."
+    },
+    {
+      "code": "ton",
+      "label": "Tongan",
+      "description": "Tongan names are used on the island nation of Tonga."
+    },
+    {
+      "code": "too",
+      "label": "Tooro",
+      "description": "Tooro names are used by the Tooro people of western Uganda."
+    },
+    {
+      "code": "trans",
+      "label": "Transformer",
+      "description": "Whimsical category"
+    },
+    {
+      "code": "tsw",
+      "label": "Tswana",
+      "description": "Tswana names are used in Botswana and South Africa."
+    },
+    {
+      "code": "tum",
+      "label": "Tumbuka",
+      "description": "Tumbuka names are used in Malawi, Zambia and Tanzania."
+    },
+    {
+      "code": "tup",
+      "label": "Tupi",
+      "description": "Tupi names are used by the Tupi people of Brazil."
+    },
+    {
+      "code": "tur",
+      "label": "Turkish",
+      "description": "Turkish names are used in the country of Turkey, which is situated in western Asia and southeastern Europe. Turkey is part of the larger Muslim world."
+    },
+    {
+      "code": "ukr",
+      "label": "Ukrainian",
+      "description": "Ukrainian names are used in the country of Ukraine in eastern Europe."
+    },
+    {
+      "code": "urd",
+      "label": "Urdu",
+      "description": "Urdu names are used in Pakistan and India."
+    },
+    {
+      "code": "urh",
+      "label": "Urhobo",
+      "description": "Urhobo names are used by the Urhobo people of Nigeria."
+    },
+    {
+      "code": "usa",
+      "label": "American",
+      "description": "American names are used in the United States."
+    },
+    {
+      "code": "uyg",
+      "label": "Uyghur",
+      "description": "Uyghur names are used by the Uyghur people in western China."
+    },
+    {
+      "code": "uzb",
+      "label": "Uzbek",
+      "description": "Uzbek names are used in the country of Uzbekistan in central Asia."
+    },
+    {
+      "code": "vari",
+      "label": "Various",
+      "description": "These names do not \"belong\" to any one culture. They are put here because they cannot be categorized anywhere else."
+    },
+    {
+      "code": "vie",
+      "label": "Vietnamese",
+      "description": "Vietnamese names are used in the country of Vietnam in southeastern Asia."
+    },
+    {
+      "code": "wel",
+      "label": "Welsh",
+      "description": "Welsh names are used in the country of Wales in Britain."
+    },
+    { "code": "witch", "label": "Witch", "description": "Whimsical category" },
+    {
+      "code": "wrest",
+      "label": "Wrestler",
+      "description": "Whimsical category"
+    },
+    {
+      "code": "xho",
+      "label": "Xhosa",
+      "description": "Xhosa names are used by the Xhosa people of South Africa."
+    },
+    {
+      "code": "yao",
+      "label": "Yao",
+      "description": "Yao names are used in Malawi, Tanzania and Mozambique."
+    },
+    {
+      "code": "yol",
+      "label": "Yolngu",
+      "description": "Yolngu names are used by the Yolngu people of northern Australia."
+    },
+    {
+      "code": "yor",
+      "label": "Yoruba",
+      "description": "Yoruba names are used by the Yoruba people of Nigeria."
+    },
+    {
+      "code": "zap",
+      "label": "Zapotec",
+      "description": "Zapotec names are used by the Zapotec people of southern Mexico."
+    },
+    {
+      "code": "zul",
+      "label": "Zulu",
+      "description": "Zulu names are used by the Zulu people of South Africa."
+    }
+  ]
+}
