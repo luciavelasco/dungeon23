@@ -7,6 +7,7 @@
     "starter"
   ],
   "main": "src/index.js",
+  "homepage": "https://luciavelasco.github.io/dungeon23",
   "dependencies": {
     "gh-pages": "^5.0.0",
     "localforage": "1.10.0",
